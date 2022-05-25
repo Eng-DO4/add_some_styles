@@ -34,20 +34,20 @@ nav a.active{
     background-color: #fff;
 }
 
-aside{
+.left{
     width: 23%;
     background-color: #8b5d00;
     float: left;
 }
 
-aside img{
+.left img{
     display: inline-block;
     width: 80%;
     margin: 5% 10% 0;
     border: solid #000;
 }
 
-section{
+.right{
     padding: 0 2.5% 0 0.5%;
     display: inline-block;
     width: 74%;
