@@ -29,6 +29,11 @@ nav a:hover{
     background-color: #fff;
 }
 
+nav a.active{
+    color: #00f;
+    background-color: #fff;
+}
+
 aside{
     width: 23%;
     background-color: #8b5d00;
