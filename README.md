@@ -9,4 +9,5 @@ This is peer assignment for CSS Michigan University online course in Coursera
 |**No.**|**Date**|
 |-------|--------|
 |assignment1|17/5/2022|
-|assignment23|25/5/2022|
+|assignment2|25/5/2022|
+|assignment3|27/6/2022|
